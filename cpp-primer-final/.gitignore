@@ -1,0 +1,107 @@
+﻿# Build directories
+build/
+cmake-build-*/
+out/
+x64/
+x86/
+Debug/
+Release/
+MinSizeRel/
+RelWithDebInfo/
+
+# Visual Studio / MSBuild files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.vcxproj.vspscc
+*.sdf
+*.opensdf
+*.sln.docstates
+*.suo
+*.user
+*.userosscache
+*.sln.docstates.json
+*.vs/
+.vs/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Package Files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases
+*.log
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+!CMakeLists.txt
+
+# Code::Blocks
+*.depend
+*.layout
+
+# CodeLite
+*.codelite-workspace
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Windows shortcuts
+*.lnk
