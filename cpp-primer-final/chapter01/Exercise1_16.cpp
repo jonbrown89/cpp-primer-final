@@ -1,8 +1,8 @@
 ﻿//Exercise 1.16: Write your own version of a program that prints the sum of a set of integers read from cin.
 
 
-#define CURRENT_EXERCISE // Uncomment out when working on this
-//#define INACTIVE_EXERCISE // Comment out when working on this
+//#define CURRENT_EXERCISE // Uncomment out when working on this
+#define INACTIVE_EXERCISE // Comment out when working on this
 
 #include <iostream>
 #ifndef INACTIVE_EXERCISE
