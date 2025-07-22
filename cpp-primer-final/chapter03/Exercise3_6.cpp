@@ -1,7 +1,7 @@
 ﻿//Exercise 3.6: Use a range for to change all the characters in a string to x.
 
-#define CURRENT_EXERCISE // Uncomment out when working on this
-//#define INACTIVE_EXERCISE // Comment out when working on this
+//#define CURRENT_EXERCISE // Uncomment out when working on this
+#define INACTIVE_EXERCISE // Comment out when working on this
 
 #ifndef INACTIVE_EXERCISE
 #include <iostream>
@@ -23,7 +23,5 @@ int main()
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 Process finished with exit code 0.
-
-
 
 */
