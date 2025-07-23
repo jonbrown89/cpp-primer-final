@@ -1,7 +1,7 @@
 ﻿//Exercise 3.15: Repeat the previous program but read strings this time.
 
-#define CURRENT_EXERCISE // Uncomment out when working on this
-//#define INACTIVE_EXERCISE // Comment out when working on this
+//#define CURRENT_EXERCISE // Uncomment out when working on this
+#define INACTIVE_EXERCISE // Comment out when working on this
 
 #ifndef INACTIVE_EXERCISE
 #include <iostream>
@@ -40,7 +40,7 @@ two
 three
 
 Vector elements: 
-one 
+one
 two 
 three 
 
