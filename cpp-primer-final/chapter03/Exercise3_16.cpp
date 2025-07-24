@@ -2,8 +2,8 @@
 // Check whether your answers to that exercise were correct.
 // If not, restudy Section 3.3.1 (pg. 97) until you understand why you were wrong.
 
-#define CURRENT_EXERCISE // Uncomment out when working on this
-//#define INACTIVE_EXERCISE // Comment out when working on this
+//#define CURRENT_EXERCISE // Uncomment out when working on this
+#define INACTIVE_EXERCISE // Comment out when working on this
 
 #ifndef INACTIVE_EXERCISE
 #include <iostream>
