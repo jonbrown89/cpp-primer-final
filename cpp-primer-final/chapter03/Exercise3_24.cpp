@@ -1,7 +1,7 @@
 ﻿//Exercise 3.24: Redo the last exercise from Section 3.3.3 (pg 105) using iterators.
 
-#define CURRENT_EXERCISE // Uncomment out when working on this
-//#define INACTIVE_EXERCISE // Comment out when working on this
+//#define CURRENT_EXERCISE // Uncomment out when working on this
+#define INACTIVE_EXERCISE // Comment out when working on this
 
 #ifndef INACTIVE_EXERCISE
 
