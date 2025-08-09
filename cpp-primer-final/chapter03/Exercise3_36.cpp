@@ -1,7 +1,9 @@
 ﻿//Exercise 3.36: Write a program to compare two arrays for equality. Write a similar program to compare two vectors.
 //credit Mooophy ex3_36.cpp
-#define CURRENT_EXERCISE // Uncomment out when working on this
-//#define INACTIVE_EXERCISE // Comment out when working on this
+
+
+//#define CURRENT_EXERCISE // Uncomment out when working on this
+#define INACTIVE_EXERCISE // Comment out when working on this
 
 #ifndef INACTIVE_EXERCISE
 #include <iostream>
