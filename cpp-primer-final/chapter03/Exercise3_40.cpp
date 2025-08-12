@@ -11,22 +11,33 @@
 using std::endl;
 using std::cout;
 
-const char cstr1[]="Hello";
-const char cstr2[]="World";
 
 int main()
 {
-    constexpr size_t new_size = strlen(cstr1) + strlen(" ") + strlen(cstr2) +1;
-    char cstr3[new_size];
+    char str1[] = "Hello, ";
+    char str2[] = "World!";
+    char result[50];
 
-    strcpy_s(cstr3, cstr1);
-    strcat_s(cstr3, " ");
-    strcat_s(cstr3, cstr2);
+    strcpy_s(result, str1);
 
-    cout << cstr3 << endl;
+    strcat_s(result, str2);
+
+    cout << "First string: " << str1 << endl;
+    cout << "Second string: " << str2 << endl;
+    cout << "Concatenated result: " << result << endl;
+    cout << "Length of result: " << strlen(result) << endl;
     
     return 0;
 }
 
-
 #endif
+/*
+First string: Hello,
+Second string: World!
+Concatenated result: Hello, World!
+Length of result: 13
+
+Process finished with exit code 0.
+
+
+*/
