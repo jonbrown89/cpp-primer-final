@@ -47,7 +47,7 @@ cpp-primer-final/
 ## 📈 Progress Tracker
 - [x] **Chapter 1**: Getting Started - ✅ Completed
 - [x] **Chapter 2**: Variables and Basic Types - ✅ Completed
-- [ ] **Chapter 3**: Strings, Vectors, and Arrays
+- [x] **Chapter 3**: Strings, Vectors, and Arrays - ✅ Completed
 - [ ] **Chapter 4**: Expressions
 - [ ] **Chapter 5**: Statements
 - [ ] **Chapter 6**: Functions
