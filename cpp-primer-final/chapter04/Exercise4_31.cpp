@@ -2,8 +2,8 @@
 // prefix and not postfix. What changed would have to be made to use the postfix versions? Rewrite the program using
 // postfix operators.
 
-#define CURRENT_EXERCISE // Uncomment out when working on this
-//#define INACTIVE_EXERCISE // Comment out when working on this
+//#define CURRENT_EXERCISE // Uncomment out when working on this
+#define INACTIVE_EXERCISE // Comment out when working on this
 
 #ifndef INACTIVE_EXERCISE
 #include <iostream>
