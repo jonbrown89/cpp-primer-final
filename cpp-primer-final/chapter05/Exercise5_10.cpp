@@ -3,12 +3,12 @@
 // your program should count both 'a' and 'A' as part of aCnt, and so forth.
 
 
-#define CURRENT_EXERCISE // Uncomment out when working on this
-//#define INACTIVE_EXERCISE // Comment out when working on this
+//#define CURRENT_EXERCISE // Uncomment out when working on this
+#define INACTIVE_EXERCISE // Comment out when working on this
 
 #ifndef INACTIVE_EXERCISE
 #include <iostream>
-#include <cctype>
+
 using std::cout;
 using std::endl;
 using std::cin;
